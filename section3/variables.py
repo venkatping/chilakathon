@@ -1,0 +1,23 @@
+#!/usr/local/bin/python3
+a=22
+b=22.5
+print(a)
+print(type(a))
+print("--------------")
+print('python')
+print('scripting')
+print("--------------")
+print(b)
+print(type(b))
+print("--------------")
+a=42
+print(a)
+print("--------------")
+#del a
+#print(a)
+print("--------------")
+my_name="python"
+print(my_name)
+print("--------------")
+my_value="567"
+print(my_value)
