@@ -43,5 +43,20 @@ for each in my_dictionary:
 for each in my_dictionary.keys():
     print(each)
 """
+"""
 for each in my_dictionary.values():
     print(each)
+"""
+for each in my_dictionary.items():
+    print(each)
+
+for key,value in my_dictionary.items():
+    print(key)
+    print(value)
+    print(key,value)
+
+
+
+
+
+
