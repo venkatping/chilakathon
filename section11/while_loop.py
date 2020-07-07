@@ -28,3 +28,12 @@ while True:
     print(value)
     value=value+20
 """
+value=4
+while value<=60000:
+    print(value)
+    value=value+10
+
+cnt=1
+while cnt <=5:
+    print("while loop")
+    cnt=cnt+1
